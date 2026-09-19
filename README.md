@@ -378,4 +378,4 @@ These notes distinguish **what the committed source defines** from what may have
 **Nazish Atta** · MS Data Science, The George Washington University  
 [GitHub profile](https://github.com/nazishatta) · [Project repository](https://github.com/nazishatta/Azure-Real-Time-Ride-Streaming-Platform)
 
-Learning reference: [Ansh Lamba — Uber Data Engineer Project](https://github.com/anshlambagit/Uber_Data_Engineer_Project). This repository presents the author's hands-on implementation and associated project artifacts.
+Learning reference: [Ansh Lamba — Uber Data Engineer Project]. 
