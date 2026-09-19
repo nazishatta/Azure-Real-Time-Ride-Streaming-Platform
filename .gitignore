@@ -3,3 +3,27 @@
 __pycache__/
 venv/
 .venv/
+
+# Local environments and secrets
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Local backup
+files_array.local.backup.json
+
+# Local secrets and backups
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+files_array.local.backup.json
